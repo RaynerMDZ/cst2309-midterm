@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
 
+    <link rel="stylesheet" href="../css/contact.css" type="text/css">
+    <link rel="stylesheet" href="../css/index.css" type="text/css">
     <link rel="stylesheet" href="../css/footer.css" type="text/css">
     <link rel="stylesheet" href="../css/navbar.css" type="text/css">
 </head>
 <body>
 
 <header>
-    <div class="container">
-        <p class="logo"><a href="../index.html">Logo here</a></p>
+    <div class="nav-container">
+        <p class="logo"><a href="../index.html">RaynerMDZ</a></p>
         <nav>
             <ul>
                 <li><a href="../index.html">Home</a></li>
@@ -23,6 +25,36 @@
         </nav>
     </div>
 </header>
+
+<main>
+    <article class="introduction">
+        <h1 class="h1"">Contact us</h1>
+
+        <div class="container">  
+            <form id="contact" action="" method="post">
+          
+              <fieldset>
+                <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+              </fieldset>
+              <fieldset>
+                <input placeholder="Your Email Address" type="email" tabindex="2" required>
+              </fieldset>
+              <fieldset>
+                <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
+              </fieldset>
+              <fieldset>
+                <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+              </fieldset>
+              <fieldset>
+                <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+              </fieldset>
+            </form>
+          </div>
+    </article>
+
+
+  
+</main>
 
 
 
