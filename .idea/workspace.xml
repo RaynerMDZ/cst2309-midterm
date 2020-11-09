@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3806905a-0e61-44a2-b019-f063f1d1dc21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CST 2309 Syllabus Fall 2020(2).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../CST 2309 Syllabus Fall 2020(2).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exams/Exam 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exams/Exam 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 1/Rayner Mendez Lab 1.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 1/Rayner Mendez Lab 1.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/HW 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/HW 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Mockups/526-5267145_graphic-design-hd-png-download.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Mockups/526-5267145_graphic-design-hd-png-download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Mockups/Lab 2.2.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Mockups/Lab 2.2.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Mockups/Screen Shot 2020-09-05 at 10.56.25 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Mockups/Screen Shot 2020-09-05 at 10.56.25 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Rayner Mendez Lab 2.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Rayner Mendez Lab 2.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Rayner Mendez Lab 2.2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Rayner Mendez Lab 2.2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/flamingo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/flamingo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Week 2/In class work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/Wireframes/Lab 2.1 wireframe.xd" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/Wireframes/Lab 2.1 wireframe.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/flamingo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/flamingo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Week 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Week 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/Assets/letter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/Assets/letter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/Assets/sunrise.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/Assets/sunrise.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/Assets/sunset.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/Assets/sunset.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/Assets/sunset2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/Assets/sunset2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/blankTab.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/blankTab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/cunyHome.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/cunyHome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/cunyLink.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/cunyLink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/fullEmail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/fullEmail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/goToCollege.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/goToCollege.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/goToGoogle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/goToGoogle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/linkColors.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/linkColors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunrise4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunrise4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 2/In class work/sunset9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 2/In class work/sunset9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/Assets/cuny.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/Assets/cuny.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Assets/iphone usb cabl.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Assets/iphone usb cabl.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Assets/statewidebanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Assets/statewidebanner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/In Class Work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/In Class Work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/Chapter 4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/Chapter 4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/bedrooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/bedrooms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/complex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/complex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/statewidebanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/statewidebanner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/Labs/vacancy.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 5/Labs/vacancy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/In Class Work/css3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/In Class Work/css3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.1/Rayner Mendez Lab 7.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.1/Rayner Mendez Lab 7.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.2/Rayner Mendez Lab 7.2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.2/Rayner Mendez Lab 7.2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.2/orderForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 7/Labs/Lab 7.2/orderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/code9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/code9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/In Class Work/style6.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/In Class Work/style6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/Chapter 7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/Chapter 7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/Rayner Mendez - Lab 8.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/Rayner Mendez - Lab 8.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/Chapter 8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/Chapter 8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/image_line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/image_line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_contact.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_contact.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_meetings.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_meetings.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_questions.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_questions.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_welcome.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/img_welcome.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/meetings.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/meetings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/nestegg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/nestegg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/questions.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/questions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 8/Labs/Lab 8.2/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 9/Labs/Lab 9.0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 9/Labs/Lab 9.0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 9/Labs/Lab 9.0/uramaki.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 9/Labs/Lab 9.0/uramaki.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k23bPji8wjALgCzSrGvlN9QSve" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/css/components" />
+      <recent name="$PROJECT_DIR$/html/component" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Midterm/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3806905a-0e61-44a2-b019-f063f1d1dc21" name="Default Changelist" comment="" />
+      <created>1604884931707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604884931707</updated>
+      <workItem from="1604884933257" duration="4762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1141" y="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604886638443">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="1141" y="405" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.962@0.25.1680.962" timestamp="1604886638443" />
+    <state width="873" height="301" key="GridCell.Tab.0.bottom" timestamp="1604889940764">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1604889940764" />
+    <state width="873" height="301" key="GridCell.Tab.0.center" timestamp="1604889940763">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1604889940763" />
+    <state width="873" height="301" key="GridCell.Tab.0.left" timestamp="1604889940763">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1604889940763" />
+    <state width="873" height="301" key="GridCell.Tab.0.right" timestamp="1604889940764">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1604889940764" />
+    <state width="873" height="301" key="GridCell.Tab.1.bottom" timestamp="1604889940765">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1604889940765" />
+    <state width="873" height="301" key="GridCell.Tab.1.center" timestamp="1604889940765">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1604889940765" />
+    <state width="873" height="301" key="GridCell.Tab.1.left" timestamp="1604889940764">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1604889940764" />
+    <state width="873" height="301" key="GridCell.Tab.1.right" timestamp="1604889940765">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1604889940765" />
+    <state width="873" height="301" key="GridCell.Tab.2.bottom" timestamp="1604889940766">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.2.bottom/0.25.1680.962@0.25.1680.962" timestamp="1604889940766" />
+    <state width="873" height="301" key="GridCell.Tab.2.center" timestamp="1604889940766">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.2.center/0.25.1680.962@0.25.1680.962" timestamp="1604889940766" />
+    <state width="873" height="301" key="GridCell.Tab.2.left" timestamp="1604889940765">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.2.left/0.25.1680.962@0.25.1680.962" timestamp="1604889940765" />
+    <state width="873" height="301" key="GridCell.Tab.2.right" timestamp="1604889940766">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.2.right/0.25.1680.962@0.25.1680.962" timestamp="1604889940766" />
+    <state width="873" height="301" key="GridCell.Tab.3.bottom" timestamp="1604889940768">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.3.bottom/0.25.1680.962@0.25.1680.962" timestamp="1604889940768" />
+    <state width="873" height="301" key="GridCell.Tab.3.center" timestamp="1604889940767">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.3.center/0.25.1680.962@0.25.1680.962" timestamp="1604889940767" />
+    <state width="873" height="301" key="GridCell.Tab.3.left" timestamp="1604889940767">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.3.left/0.25.1680.962@0.25.1680.962" timestamp="1604889940767" />
+    <state width="873" height="301" key="GridCell.Tab.3.right" timestamp="1604889940767">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="873" height="301" key="GridCell.Tab.3.right/0.25.1680.962@0.25.1680.962" timestamp="1604889940767" />
+    <state x="349" y="142" key="SettingsEditor" timestamp="1604885076062">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="349" y="142" key="SettingsEditor/0.25.1680.962@0.25.1680.962" timestamp="1604885076062" />
+  </component>
+</project>
