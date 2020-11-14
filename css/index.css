@@ -2,6 +2,9 @@ body {
 	min-height: 100vh;
 	display: block;
 	position: relative;
+	background-image: url('../assets/190710135245-12-waterfront-restaurants.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
 	
 }
 
@@ -129,4 +132,15 @@ only screen and (max-width: 760px),
     height: 620px;
 	margin: 1% 0 1% 0;
 	padding-top: 80px;
+}
+
+.header {
+	color: white;
+	margin: auto;
+  	width: 50%;
+	  border: 1px solid black;
+
+	padding: 10px;
+	margin-top: 350px;
+	font-size: 2rem;
 }
